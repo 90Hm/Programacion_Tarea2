@@ -22,7 +22,7 @@ temperaturas = [
         [21, 22, 23, 21, 22, 22, 23]    # Semana 4
     ]
 ]
-s
+
 # Nombres de las ciudades utilizadas en el programa
 ciudades = ["Quito", "Lago Agrio", "Baños"]
 
