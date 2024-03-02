@@ -15,7 +15,7 @@ temperaturas = [
         [32, 33, 34, 31, 32, 33, 34],   # Semana 3
         [33, 34, 35, 32, 33, 34, 35]    # Semana 4
     ],
-    [   # Baños
+    [   # Puyo
         [18, 19, 18, 18, 19, 19, 20],   # Semana 1
         [19, 20, 21, 19, 20, 20, 21],   # Semana 2
         [20, 21, 22, 20, 21, 21, 22],   # Semana 3
@@ -24,7 +24,7 @@ temperaturas = [
 ]
 
 # Nombres de las ciudades utilizadas en el programa
-ciudades = ["Quito", "Lago Agrio", "Baños"]
+ciudades = ["Quito", "Lago Agrio", "Puyo"]
 
 # Calcular el promedio de temperaturas para cada ciudad y semana
 for ciudad_idx, ciudad in enumerate(temperaturas):
